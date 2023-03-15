@@ -14,12 +14,14 @@
 [![Python][Python]][Python-url]
 [![C++][C++]][C++-url]
 [![Bash][Bash]][Bash-url]
+[![MLflow][MLflow]][Mlflow-url]
 [![Docker][Docker]][Docker-url]
 [![Kubernetes][Kubernetes]][Kubernetes-url]
 [![PostgreSQL][PostgreSQL]][PostgreSQL-url]
 [![MongoDB][MongoDB]][MongoDB-url]
 [![MySQL][MySQL]][MySQL-url]
 [![Linux][Linux]][Linux-url]
+[![MLflow][MLflow]][Mlflow-url]
 
 
 
@@ -87,8 +89,11 @@
 [C++]: https://img.shields.io/badge/C++-2496ED?style=for-the-badge&logo=c%2B%2B&labelColor=white&logoColor=black
 [C++-url]: https://ru.wikipedia.org/wiki/C%2B%2B
 
-[Bash]: https://img.shields.io/badge/bash-2496ED?style=for-the-badge&logo=GNUBash&labelColor=white&logoColor=black
+[Bash]: https://img.shields.io/badge/bash-47A248?style=for-the-badge&logo=GNUBash&labelColor=white&logoColor=black
 [Bash-url]: https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html
+
+[MLflow]: https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=MLflow&labelColor=white
+[Mlflow-url]: https://mlflow.org
 
 
 [Docker]: https://img.shields.io/badge/-docker-2496ED?style=for-the-badge&logo=docker&labelColor=white
