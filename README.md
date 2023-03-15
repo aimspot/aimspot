@@ -68,7 +68,7 @@
 <br>
 
 <div align="center">
-    <img src="https://github.com/aimspot/aimspot/blob/main/media/evagif.gif?raw=true" style="max-width: 100%">
+    <img src="https://github.com/aimspot/aimspot/blob/main/media/evagif.gif?raw=true" style="max-width: 200%">
 </div>
 
 <br>
