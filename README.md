@@ -80,6 +80,12 @@
 
 [Python]: https://img.shields.io/badge/-python-3776AB?style=for-the-badge&logo=python&labelColor=white
 [Python-url]: https://www.python.org
+
+
+[C++]: https://img.shields.io/badge/-C++-2496ED?style=for-the-badge&logo=C++&labelColor=white
+[C++-url]: https://ru.wikipedia.org/wiki/C%2B%2B
+
+
 [Docker]: https://img.shields.io/badge/-docker-2496ED?style=for-the-badge&logo=docker&labelColor=white
 [Docker-url]: https://www.docker.com
 [Kubernetes]: https://img.shields.io/badge/-kubernetes-326CE5?style=for-the-badge&logo=kubernetes&labelColor=white
