@@ -14,6 +14,9 @@
 [![Python][Python]][Python-url]
 [![C++][C++]][C++-url]
 [![Bash][Bash]][Bash-url]
+[![PyTorch][PyTorch]][PyTorch-url]
+[![TensorFlow][TensorFlow]][TensorFlow-url]
+[![scikit-learn][scikit-learn]][scikit-learn-url]
 [![MLflow][MLflow]][Mlflow-url]
 [![Docker][Docker]][Docker-url]
 [![Kubernetes][Kubernetes]][Kubernetes-url]
@@ -21,7 +24,6 @@
 [![MongoDB][MongoDB]][MongoDB-url]
 [![MySQL][MySQL]][MySQL-url]
 [![Linux][Linux]][Linux-url]
-[![MLflow][MLflow]][Mlflow-url]
 
 
 
@@ -94,6 +96,15 @@
 
 [MLflow]: https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=MLflow&labelColor=white
 [Mlflow-url]: https://mlflow.org
+
+[PyTorch]: https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&labelColor=white
+[PyTorch-url]: https://pytorch.org
+
+[TensorFlow]: https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&labelColor=white
+[TensorFlow-url]: https://www.tensorflow.org
+
+[scikit-learn]: https://img.shields.io/badge/scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&labelColor=white
+[scikit-learn-url]: https://scikit-learn.org/stable/
 
 
 [Docker]: https://img.shields.io/badge/-docker-2496ED?style=for-the-badge&logo=docker&labelColor=white
