@@ -86,27 +86,18 @@
 
 [Python]: https://img.shields.io/badge/-python-3776AB?style=for-the-badge&logo=python&labelColor=white
 [Python-url]: https://www.python.org
-
-
 [C++]: https://img.shields.io/badge/C++-2496ED?style=for-the-badge&logo=c%2B%2B&labelColor=white&logoColor=black
 [C++-url]: https://ru.wikipedia.org/wiki/C%2B%2B
-
 [Bash]: https://img.shields.io/badge/bash-47A248?style=for-the-badge&logo=GNUBash&labelColor=white&logoColor=black
 [Bash-url]: https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html
-
 [MLflow]: https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=MLflow&labelColor=white
 [Mlflow-url]: https://mlflow.org
-
 [PyTorch]: https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&labelColor=white
 [PyTorch-url]: https://pytorch.org
-
 [TensorFlow]: https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&labelColor=white
 [TensorFlow-url]: https://www.tensorflow.org
-
-[scikit-learn]: https://img.shields.io/badge/scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&labelColor=white
+[scikit-learn]: https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&labelColor=white
 [scikit-learn-url]: https://scikit-learn.org/stable/
-
-
 [Docker]: https://img.shields.io/badge/-docker-2496ED?style=for-the-badge&logo=docker&labelColor=white
 [Docker-url]: https://www.docker.com
 [Kubernetes]: https://img.shields.io/badge/-kubernetes-326CE5?style=for-the-badge&logo=kubernetes&labelColor=white
