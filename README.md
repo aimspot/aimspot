@@ -1,7 +1,7 @@
 <h1 align="center">Hello there! <img src = "https://github.com/aimspot/aimspot/blob/main/media/wave.gif?raw=true" width = 30px></h1>
 
 <div class="container">
-    <img src="https://github.com/aimspot/aimspot/blob/main/media/ai.gif?raw=true" align="right">&nbsp;
+    <img src="https://github.com/aimspot/aimspot/blob/main/media/ai.gif?raw=true" align="right" width = 100px>&nbsp;
     <h4>I'm Gerasimchuk Mikhail, DeepLearning developer currently working and living in Saint Petersburg, Russia.</h4>
     <h4>I have a bachelor's degree in computer science and computer engineering, currently studying for a master's degree at <a href="https://itmo.ru">ITMO</a>.</h4>
     <h4>You can see my small projects on the side.</h4>
