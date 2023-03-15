@@ -13,6 +13,7 @@
 
 [![Python][Python]][Python-url]
 [![C++][C++]][C++-url]
+[![Bash][Bash]][Bash-url]
 [![Docker][Docker]][Docker-url]
 [![Kubernetes][Kubernetes]][Kubernetes-url]
 [![PostgreSQL][PostgreSQL]][PostgreSQL-url]
@@ -83,8 +84,6 @@
 [Python-url]: https://www.python.org
 
 
-[C++]: https://img.shields.io/badge/C++-2496ED?style=for-the-badge&logo=c%2B%2B&labelColor=white&logoColor=black
-[C++-url]: https://ru.wikipedia.org/wiki/C%2B%2B
 [C++]: https://img.shields.io/badge/C++-2496ED?style=for-the-badge&logo=c%2B%2B&labelColor=white&logoColor=black
 [C++-url]: https://ru.wikipedia.org/wiki/C%2B%2B
 
