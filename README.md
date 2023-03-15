@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! <img src = "https://github.com/aimspot/aimspot/blob/main/media/line-neon.gif?raw=true" width = 30px></h1>
+<h1 align="center">Hello there! <img src = "https://github.com/aimspot/aimspot/blob/main/media/line.gif?raw=true" width = 30px></h1>
 
 <div class="container">
     <img src="https://github.com/aimspot/aimspot/blob/main/media/ai.gif?raw=true" align="right" width = 300px>&nbsp;
@@ -33,7 +33,7 @@
 <br>
 
 
-<img src="https://github.com/aimspot/aimspot/blob/main/media/line-neon.gif?raw=true">
+<img src="https://github.com/aimspot/aimspot/blob/main/media/line.gif?raw=true">
 
 ## 📌 Pinned Projects
 
@@ -73,7 +73,7 @@
 
 <br>
 
-<img src="https://github.com/aimspot/aimspot/blob/main/media/line-neon.gif?raw=true">
+<img src="https://github.com/aimspot/aimspot/blob/main/media/line.gif?raw=true">
 
 <br>
 
