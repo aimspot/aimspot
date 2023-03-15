@@ -1,4 +1,4 @@
-<h1 align="center">Hello there!></h1>
+<h1 align="center">Hello there!</h1>
 
 <div class="container">
     <img src="https://github.com/aimspot/aimspot/blob/main/media/ai.gif?raw=true" align="right" width = 300px>&nbsp;
@@ -42,7 +42,7 @@
     </a>
     <span>&nbsp;</span>
     <a href="https://github.com/aimspot/Deep-Learning">
-        <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aimspot&repo=Deep-Learning&border_color=004AE9&bg_color=B371F5&title_color=C9D1D9&text_color=8B949E&icon_color=B371F5" />
+        <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aimspot&repo=Deep-Learning&border_color=004AE9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=B371F5" />
     </a>
 </div>
 <p> </p>
