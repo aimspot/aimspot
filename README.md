@@ -12,6 +12,7 @@
 <div align="center">
 
 [![Python][Python]][Python-url]
+[![C++][C++]][C++-url]
 [![Docker][Docker]][Docker-url]
 [![Kubernetes][Kubernetes]][Kubernetes-url]
 [![PostgreSQL][PostgreSQL]][PostgreSQL-url]
