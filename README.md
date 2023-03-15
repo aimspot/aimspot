@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! <img src = "https://github.com/aimspot/aimspot/blob/main/media/line.gif?raw=true" width = 30px></h1>
+<h1 align="center">Hello there!></h1>
 
 <div class="container">
     <img src="https://github.com/aimspot/aimspot/blob/main/media/ai.gif?raw=true" align="right" width = 300px>&nbsp;
@@ -36,7 +36,16 @@
 <img src="https://github.com/aimspot/aimspot/blob/main/media/line.gif?raw=true">
 
 ## 📌 Pinned Projects
-
+<div align="center">
+    <a href="https://github.com/aimspot/Machine-Learning">
+        <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aimspot&repo=Machine-Learning&border_color=B371F5&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=004AE9" />
+    </a>
+    <span>&nbsp;</span>
+    <a href="https://github.com/aimspot/Deep-Learning">
+        <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aimspot&repo=Deep-Learning&border_color=004AE9&bg_color=B371F5&title_color=C9D1D9&text_color=8B949E&icon_color=B371F5" />
+    </a>
+</div>
+<p> </p>
 
 
 <br>
