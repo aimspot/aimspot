@@ -48,7 +48,7 @@
   </a>
 </div>
 
-[![Aimspot Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=aimspot&custom_title=aimspot%20's%20Contribution%20Graph&bg_color=ffffff00&hide_border=true&line=00BAE9&point=EE4779&title_color=EE4779&color=C9D1D9)](https://github.com/tanya-lyubimaya/github-readme-activity-graph)
+[![Aimspot Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=aimspot&custom_title=aimspot%20's%20Contribution%20Graph&bg_color=ffffff00&hide_border=true&line=00BAE9&point=EE4779&title_color=EE4779&color=C9D1D9)](https://github.com/aimspot/github-readme-activity-graph)
 <br>
 
 ## ✉️ Contact Me
