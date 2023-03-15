@@ -31,6 +31,7 @@
 </div>
 
 <br>
+<div class="tenor-gif-embed" data-postid="25763091" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/ai-gif-25763091">Ai GIF</a>from <a href="https://tenor.com/search/ai-gifs">Ai GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <img src="https://github.com/aimspot/aimspot/blob/main/media/glowing_line.gif?raw=true">
 
