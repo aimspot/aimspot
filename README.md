@@ -86,6 +86,9 @@
 [C++]: https://img.shields.io/badge/C++-2496ED?style=for-the-badge&logo=c%2B%2B&labelColor=white&logoColor=black
 [C++-url]: https://ru.wikipedia.org/wiki/C%2B%2B
 
+[Bash]: https://img.shields.io/badge/-bash-2496ED?style=for-the-badge&logo=GNU Bash&labelColor=white&logoColor=black
+[Bash-url]: https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html
+
 
 [Docker]: https://img.shields.io/badge/-docker-2496ED?style=for-the-badge&logo=docker&labelColor=white
 [Docker-url]: https://www.docker.com
