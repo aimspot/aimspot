@@ -52,7 +52,7 @@
     </a>
     <span>&nbsp;</span>
     <a href="https://github.com/aimspot/Transfer_learning">
-         <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aimspot&repo=Transfer_learning&border_color=B371F5&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=004AE9" />
+         <img width='49%' align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aimspot&repo=Transfer_learning&border_color=B371F5&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=004AE9" />
     </a>
 </div>
 <p> </p>
