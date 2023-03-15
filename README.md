@@ -33,7 +33,7 @@
 <br>
 
 
-<img src="https://github.com/aimspot/aimspot/blob/main/media/glowing_line.gif?raw=true">
+<img src="https://github.com/aimspot/aimspot/blob/main/media/ai.gif?raw=true">
 
 ## 📌 Pinned Projects
 
