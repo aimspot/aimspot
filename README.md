@@ -83,7 +83,7 @@
 [Python-url]: https://www.python.org
 
 
-[C++]: https://img.shields.io/badge/C++-2496ED?style=for-the-badge&logo=CMake&labelColor=black
+[C++]: https://img.shields.io/badge/C++-2496ED?style=for-the-badge&logo=C++&labelColor=black
 [C++-url]: https://ru.wikipedia.org/wiki/C%2B%2B
 
 
