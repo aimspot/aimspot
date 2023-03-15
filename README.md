@@ -65,7 +65,7 @@
 
 <div align="left">
     <img width="49.5%" src="https://github-readme-stats-puce-chi-40.vercel.app/api?username=aimspot&show_icons=true&hide_border=true&bg_color=ffffff00&title_color=B371F5&text_color=C9D1D9&icon_color=004AE9" />
-    <img width="49.5%" src="https://github-readme-stats-puce-chi-40.vercel.app/api?user=aimspot&hide_border=true&background=ffffff00&ring=004AE9&fire=B371F5&currStreakNum=B371F5&currStreakLabel=B371F5&sideNums=004AE9&sideLabels=C9D1D9&dates=8B949E" />
+    <img width="49.5%" src="https://https://github-readme-stats-aimspot.vercel.app/api?user=aimspot&hide_border=true&background=ffffff00&ring=004AE9&fire=B371F5&currStreakNum=B371F5&currStreakLabel=B371F5&sideNums=004AE9&sideLabels=C9D1D9&dates=8B949E" />
   </a>
 </div>
 
