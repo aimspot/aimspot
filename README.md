@@ -38,21 +38,21 @@
 ## 📌 Pinned Projects
 <div align="center">
     <a href="https://github.com/aimspot/Machine-Learning">
-        <img width='49%' align="center" src="https://github-readme-stats-aimspot.vercel.app/api/pin/?username=aimspot&repo=Machine-Learning&border_color=B371F5&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=004AE9" />
+        <img width='49%' align="center" src="https://github-readme-stats-9fkw.vercel.app/api/pin/?username=aimspot&repo=Machine-Learning&border_color=B371F5&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=004AE9" />
     </a>
     <span>&nbsp;</span>
     <a href="https://github.com/aimspot/Computer-Vision">
-        <img width='49%' align="center" src="https://github-readme-stats-aimspot.vercel.app/api/pin/?username=aimspot&repo=Computer-Vision&border_color=004AE9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=B371F5" />
+        <img width='49%' align="center" src="https://github-readme-stats-9fkw.vercel.app/api/pin/?username=aimspot&repo=Computer-Vision&border_color=004AE9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=B371F5" />
     </a>
 </div>
 <p> </p>
 <div align="center">
     <a href="https://github.com/aimspot/Deep-Learning">
-        <img width='49%' align="center" src="https://github-readme-stats-aimspot.vercel.app/api/pin/?username=aimspot&repo=Deep-Learning&border_color=004AE9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=B371F5" />
+        <img width='49%' align="center" src="https://github-readme-stats-9fkw.vercel.app/api/pin/?username=aimspot&repo=Deep-Learning&border_color=004AE9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=B371F5" />
     </a>
     <span>&nbsp;</span>
     <a href="https://github.com/aimspot/Transfer_learning">
-         <img width='49%' align="center" src="https://github-readme-stats-aimspot.vercel.app/api/pin/?username=aimspot&repo=Transfer_learning&border_color=B371F5&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=004AE9" />
+         <img width='49%' align="center" src="https://github-readme-stats-9fkw.vercel.app/api/pin/?username=aimspot&repo=Transfer_learning&border_color=B371F5&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=004AE9" />
     </a>
 </div>
 <p> </p>
@@ -64,7 +64,7 @@
 ## <img src="https://raw.githubusercontent.com/aimspot/aimspot/main/media/statistics.webp" width="30px"/>&nbsp;My Statistics
 
 <div align="left">
-    <img width="49.5%" src="https://github-readme-stats-puce-chi-40.vercel.app/api?username=aimspot&show_icons=true&hide_border=true&bg_color=ffffff00&title_color=B371F5&text_color=C9D1D9&icon_color=004AE9" />
+    <img width="49.5%" src="https://github-readme-stats-9fkw.vercel.app/api?username=aimspot&show_icons=true&hide_border=true&bg_color=ffffff00&title_color=B371F5&text_color=C9D1D9&icon_color=004AE9" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=aimspot&hide_border=true&background=ffffff00&ring=004AE9&fire=B371F5&currStreakNum=B371F5&currStreakLabel=B371F5&sideNums=004AE9&sideLabels=C9D1D9&dates=8B949E" />
   </a>
 </div>
