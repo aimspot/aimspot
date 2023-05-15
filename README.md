@@ -11,12 +11,12 @@
 
 <div align="center">
 
-[![Python][Python]][Python-url]
-    
+[![Python][Python]][Python-url] 
 [![C++][C++]][C++-url]
 [![Bash][Bash]][Bash-url]
 [![PyTorch][PyTorch]][PyTorch-url]
 [![TensorFlow][TensorFlow]][TensorFlow-url]
+    
 [![scikit-learn][scikit-learn]][scikit-learn-url]
 [![MLflow][MLflow]][Mlflow-url]
 [![Docker][Docker]][Docker-url]
