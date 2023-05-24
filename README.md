@@ -70,7 +70,7 @@
   </a>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aimspot&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Aimspot's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aimspot)](https://github.com/aimspot/github-readme-activity-graph)
 <br>
 
 ## ✉️ Contact Me
