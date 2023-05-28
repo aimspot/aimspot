@@ -70,7 +70,7 @@
   </a>
 </div>
 
-[![Aimspot Activity Graph](github-readme-activity-graph-ashutosh00710.vercel.app?username=aimspot&custom_title=aimspot%20's%20Contribution%20Graph&bg_color=ffffff00&hide_border=true&line=004AE9&point=B371F5&title_color=B371F5&color=C9D1D9)](https://github.com/aimspot/github-readme-activity-graph)
+[![Aimspot Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=aimspot&custom_title=aimspot%20's%20Contribution%20Graph&bg_color=ffffff00&hide_border=true&line=004AE9&point=B371F5&title_color=B371F5&color=C9D1D9)](https://github.com/aimspot/github-readme-activity-graph)
 <br>
 
 ## ✉️ Contact Me
