@@ -57,8 +57,9 @@
     </a>
 </div>
 <p> </p>
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/aimspot?ext=heatmap&theme=wtf)
+<div align="center">
+    ![LeetCode Stats](https://leetcard.jacoblin.cool/aimspot?ext=heatmap&theme=nord)
+</div>
 <br>
 
 ## <img src="https://raw.githubusercontent.com/aimspot/aimspot/main/media/statistics.webp" width="30px"/>&nbsp;My Statistics
