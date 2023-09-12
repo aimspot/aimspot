@@ -57,12 +57,11 @@
     </a>
 </div>
 <p> </p>
-<div align="center">
-    ![LeetCode Stats](https://leetcard.jacoblin.cool/aimspot?ext=heatmap&theme=nord)
-</div>
 <br>
 
 ## <img src="https://raw.githubusercontent.com/aimspot/aimspot/main/media/statistics.webp" width="30px"/>&nbsp;My Statistics
+
+<center>![LeetCode Stats](https://leetcard.jacoblin.cool/aimspot?ext=heatmap&theme=nord) </center>
 
 <div align="left">
     <img width="49.5%" src="https://github-readme-stats-wheat-mu-31.vercel.app/api?username=aimspot&show_icons=true&hide_border=true&bg_color=ffffff00&title_color=B371F5&text_color=C9D1D9&icon_color=004AE9" />
