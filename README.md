@@ -63,7 +63,7 @@
 
 
 <div align="center">
-    <img width="49.5%" src="https://leetcard.jacoblin.cool/aimspot?ext=heatmap&theme=dark" />
+    <img width="99%" src="https://leetcard.jacoblin.cool/aimspot?ext=heatmap&theme=dark" />
   </a>
 </div>
 
