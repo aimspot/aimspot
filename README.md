@@ -61,10 +61,9 @@
 
 ## <img src="https://raw.githubusercontent.com/aimspot/aimspot/main/media/statistics.webp" width="30px"/>&nbsp;My Statistics
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/aimspot?ext=heatmap&theme=unicorn)
 
-<div align="left">
-    <img width="49.5%" src="https://leetcard.jacoblin.cool/aimspot?ext=heatmap&theme=unicorn" />
+<div align="center">
+    <img width="49.5%" src="https://leetcard.jacoblin.cool/aimspot?ext=heatmap&theme=dark" />
   </a>
 </div>
 
