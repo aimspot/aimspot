@@ -58,7 +58,6 @@
 </div>
 <p> </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aimspot)](https://git.io/streak-stats)
 
 <br>
 
