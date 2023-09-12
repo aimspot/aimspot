@@ -62,10 +62,6 @@
 ## <img src="https://raw.githubusercontent.com/aimspot/aimspot/main/media/statistics.webp" width="30px"/>&nbsp;My Statistics
 
 
-<div align="center">
-    <img width="99%" height="50%" src="https://leetcard.jacoblin.cool/aimspot?ext=heatmap&theme=dark" />
-  </a>
-</div>
 
 <div align="left">
     <img width="49.5%" src="https://github-readme-stats-wheat-mu-31.vercel.app/api?username=aimspot&show_icons=true&hide_border=true&bg_color=ffffff00&title_color=B371F5&text_color=C9D1D9&icon_color=004AE9" />
@@ -75,6 +71,10 @@
 
 [![Aimspot Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aimspot&custom_title=aimspot%20's%20Contribution%20Graph&bg_color=ffffff00&hide_border=true&line=004AE9&point=B371F5&title_color=B371F5&color=C9D1D9)](https://github.com/aimspot/github-readme-activity-graph)
 <br>
+<div align="center">
+    <img width="70%" height="50%" src="https://leetcard.jacoblin.cool/aimspot?ext=heatmap&theme=dark" />
+  </a>
+</div>
 
 ## ✉️ Contact Me
 
