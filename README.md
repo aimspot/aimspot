@@ -38,8 +38,8 @@
 
 ## 📌 Pinned Projects
 <div align="center">
-        <a href="https://github.com/saaresearch/ODRS">
-         <img width='49%' align="center" src="https://github-readme-stats-wheat-mu-31.vercel.app/api/pin/?username=saaresearch&repo=ODRS&border_color=B371F5&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=004AE9" />
+    <a href="https://github.com/saaresearch/ODRS">
+         <img width='49%' align="center" src="https://github-readme-stats-wheat-mu-31.vercel.app/api/pin/?username=saaresearch&repo=ODRS&           border_color=B371F5&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=004AE9" />
     </a>
     <span>&nbsp;</span>
     <a href="https://github.com/aimspot/Computer-Vision">
