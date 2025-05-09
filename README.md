@@ -3,7 +3,7 @@
 <div class="container">
     <img src="https://github.com/aimspot/aimspot/blob/main/media/ai.gif?raw=true" align="right" width = 300px>&nbsp;
     <h4>My name is Gerasimchuk Mikhail, DeepLearning developer currently working and living in Saint Petersburg, Russia.</h4>
-    <h4>I have a bachelor's degree in computer science and computer engineering, master`s degree in artificial intelligence field, currently studying for a PhD degree at <a href="https://itmo.ru">ITMO</a>.</h4>
+    <h4>I have a bachelor's degree in computer science and computer engineering, master`s degree in artificial intelligence field and currently studying for a PhD degree at <a href="https://itmo.ru">ITMO</a>.</h4>
     <h4>You can see my small projects on the side.</h4>
 </div>
 
